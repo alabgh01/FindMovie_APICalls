@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://media.canadianunderwriter.ca/uploads/2020/06/iStock-686746978-film.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.input-group-text {
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+}
+
+.form-control {
+    border: 1px solid black;
+}
